@@ -1,0 +1,3 @@
+#title	credit	serviceUrl	yOriginTop	zmin	zmax	xmin	ymin	xmax	ymax
+1/2万　迅速測図原図	（独）農業環境技術研究所	http://habs.dc.affrc.go.jp/rapid16/{z}/{x}/{y}.png	0	8	16	138.9	34.9	141.0	36.5
+1/5千　東京測量図原図	（独）農業環境技術研究所	http://habs.dc.affrc.go.jp/tokyo5k/{z}/{x}/{y}.png	0	12	18	139.70	35.65	139.8	35.71
